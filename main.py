@@ -261,7 +261,7 @@ while (on_line):
             print(m)
 
     elif opcion == 8:
-        print("Gracias por utilizar el sistema, hasta luego ( ^_^)／")
+        print("Gracias por utilizar el sistema, hasta luego")
         on_line = False
         continue
 
